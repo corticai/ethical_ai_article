@@ -1,0 +1,97 @@
+Introduction
+
+    AI is a new and evolving field that is seeking to bring ethics into the digital age. The aim is to develop ways to understand and deal with the impact and impact of AI on society, its users, and to create systems that will provide safe and beneficial AI for the people it serves. Our research, and insights will be incorporated into AI products to ensure its use, and the outcomes it brings.
+
+What is Ethical AI?
+
+    The definition of Ethical AI is a set of principles that you can think of as guidelines for how AI should behave. These guidelines aim at ensuring that AI systems meet human values, and in particular that they do not misbehave.
+    
+    There is no clear standard for determining whether a system is ethical, and there is a set of criteria to consider when using AI to predict who will become a candidate for a job, or to manage human-like interactions on the job. In the current AI landscape, the concept of a ‘good’ AI system can be attributed to the fact that it is the only way to accurately predict the future. However, the notion of a ‘bad’ AI system can be traced to the fact that it is only possible to predict an outcome that is not representative of the future. In order to work towards such an ideal, the AI alignment system needs to be developed as a set of principles rather than as an entire set of guidelines.
+    
+    AI systems are designed with the following core values:
+        Ethical AI should work on ethical principles that reflect ethical principles for its users, and that do not misbehave.
+        If a system is inherently biased, that bias is to be remedied, and it should be removed.
+
+
+Ethical AI Principles
+
+Human, social and environmental wellbeing.
+   Throughout their lifecycle, AI systems should benefit individuals, society and the environment by making them better able to work effectively, live healthier and happier and make better decisions in a more responsible way.
+
+Fairness
+    When we think of AI, we think of ethics as a concept of fairness, rather than a concept of power or privilege.
+    
+    In order to design AI systems that are fair, we need to build ethics systems that are inclusive and accessible. These systems are then likely to incorporate a range of human biases, including:
+        AI systems that have a bias against a group of people
+        AI systems that are programmed to manipulate a group of people
+        AI systems that are programmed to manipulate a group of people
+        AI systems that have a bias against a specific group of people
+        AI systems that have a bias against a specific group of people
+        AI systems that have a bias against an individual group of people
+        AI systems that have a bias against specific groups of people
+        Ethics as a concept of power
+
+Privacy, Protection and Security
+    AI systems should respect and uphold privacy rights and data protection, and ensure the security of data at scale.
+    
+    Ethical considerations, however, can also play a role in designing systems that are fair and transparent. Data is subject to privacy-protecting algorithms, which are often designed for large-scale data access or when the information is sensitive. These algorithms can be complex and opaque in practice, but they can often help prevent widespread abuse of data, such as for terrorist or social media campaigns.
+    
+    It is important that systems that enable people to freely use technology and data are implemented transparently, without discrimination and unfairness. In this regard, a more efficient and open design can ensure that data are used responsibly and that fairness plays an important role. In particular, it is critical that companies implement measures to protect individuals against liability for misuse of data collected by their systems.
+
+Realibility and Safety
+    AI systems should reliably operate in accordance with their intended purpose. For example, in a computerized society, an ethical standard can be established to govern the behavior of the AI systems. In an autonomous machine, the ethical standard should be developed and a set of ethics guidelines established to ensure that the AI systems are protected from harm.
+
+Transparency and Explainability
+    There should be transparency and responsible disclosure to ensure people know when they are being significantly impacted by an AI system, and can find out when an AI system is engaging with them. It should be able to identify when an AI system has been misbehaving or what the implications are of the behaviour of the system or company. If an employee of an AI system has been subjected to discrimination or abuse, it should be able to contact the relevant organisation and seek redress.
+
+Contestability
+    There should be a timely process to allow people to challenge the use or output of the AI system in court. In this instance, it’s important that they take the initiative to challenge the use of the system at all times to ensure fairness and accountability for its use and development.
+
+Accountability
+    Those responsible for AI systems should be identifiable and accountable to ensure that their decisions are aligned with the goals and values of their systems. They should be motivated by clear goals and values in order to achieve their objectives. They should also be aware of how AI systems can bias or exacerbate existing biases by applying artificial intelligence methods and policies that could lead to their bias. These should be transparent and accountable to ensure that all citizens have access to the information about AI systems it is creating and the consequences they have created for their citizens.
+
+
+
+What Issues does Ethical AI Address?
+
+The issues that ethical AI addresses are not simply economic or political; they are cultural, moral, and social.
+AI has the potential to affect the social and economic fabric of the world for a variety of useful uses:
+
+    Ensuring the sustainability of human-controlled AI
+    Ensuring that ethical AI is implemented effectively and consistently to the benefit of all
+    Engaging societies in an increasingly interdependent, interdependent, and interdependence on artificial intelligence
+    Ethical AI has the potential to drastically reduce inequalities in the world through:
+    AI-related technology (including intelligent home delivery systems, artificial intelligence and robotics, and biotechnology)
+    AI safety (including detection and response to potential dangers from new developments in AI safety research and development)
+    Ethical AI is an important tool to address systemic issues of social and economic inequality:
+    Ensuring that AI technologies are applied ethically and consistently to the benefit of all
+    Ensuring that ethical AI is implemented effectively and consistently to the benefit of all
+    Engaging communities and societies in an increasingly interdependent, interdependence, and interdependence on artificial intelligence
+
+
+How to Develop Ethical AI?
+
+    The principles for developing AI should include the following:
+
+        Defining what the term “AI” means in relation to AI and its goals and the mechanisms in use.
+        Identifying the various steps AI must take to build or maintain its capabilities and to act upon them.
+        Associating the benefits of AI with social, economic, economic and ethical factors.
+        Identifying the ways AI has helped us create new ways of doing things that are socially beneficial or beneficial to society.
+        Identifying the benefits of AI for economic growth, human well-being, the environment, and the environment”.
+        Identifying the harms that AI does to society, its effects on humans, and their ability to address those effects.
+        Identifying the factors that impact on the wellbeing and well-being of AI as a whole, in terms of individual and societal factors.
+        Identifying the mechanisms that AI uses to build, manage, and benefit from its capabilities and the effects they have on us.
+
+        Identifying the factors that can result in the erosion of existing human rights norms and institutions and those that are currently in place.
+        Explaining the processes by which AI and other forms of technology can be used for nefarious ends.
+        Explaining the methods for AI and other forms of technology to address human rights violations, and the unintended consequences of this.
+        Explaining the reasons why AI should be used to create or to operate a specific set of technologies.
+        Explaining how technology is used in an ethical or legal sense to achieve or protect specific human rights or the social status of people and other entities in society.
+        Explaining how technology is used in an ethical or legal sense to enable or impede the development of those rights and the effects they have on people or other entities in society.
+        Explaining the ways in which those rights are being abused, abused, and abused for the benefit of a specific group.
+        Identifying the mechanisms by which the government and corporations use the technology to achieve specific goals or the effect they have on the social status of people or other entities in society.
+        The process by which governments, corporations, and other institutions in practice and within organizations create or use algorithms that are beneficial to a particular group.
+
+
+Conclusion
+    AI will become prevalent in our daily lives, and we must ensure that the technology is applied ethically. To do this, we must develop the ethics of AI as a framework for addressing this complex challenge.
